@@ -1,0 +1,73 @@
+*{
+
+	margin: 0px;
+}
+
+.container{
+
+width: 450px;
+    margin: 50px 720px;
+
+}
+
+body{
+
+	font-family: 'Poppins', sans-serif;
+	background:url(../img/background.jpeg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-section
+{
+
+padding: 30px;
+
+
+}
+.login-section,img
+{
+background-color: #4aadda;
+    /* height: 150px; */
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+    margin-left: 50px;
+
+
+}
+
+
+   .login-section, h2 {
+    color: #fdfcf8;
+    text-align: center;
+    margin: 20px 0px;
+    font-size: larger;
+
+
+}
+.form-control{
+width: 90%;
+    padding: 20px 15px;
+    margin-bottom: 12px;
+
+}
+.btn{
+	background-color: #0017ff;
+    color: #fdfcfc;
+    padding: 10px 20px;
+    margin: 0px auto;
+    text-align: center;
+   
+    text-shadow: seagreen;
+    transition: auto;
+    display: block;
+    text-transform: uppercase;
+    font-size: smaller
+
+
+}
+.container2{
+
+	
+}
